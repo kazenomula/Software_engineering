@@ -4,7 +4,7 @@
 
 - 类图
 
-  - 使用plantUML绘制的结果如下
+  - 使用plantUML绘制的结果如下(单独看图片显示没问题，但是在md里面缺一条竖线不知道为啥)
     ![alt text](image/image-0.png)
 - 设计说明
 
