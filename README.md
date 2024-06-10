@@ -5,7 +5,7 @@
 - 类图
 
   - 使用plantUML绘制的结果如下
-    ![alt text](image/image.png)
+    ![alt text](image/image-0.png)
 - 设计说明
 
   - Component类
