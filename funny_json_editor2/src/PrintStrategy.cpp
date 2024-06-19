@@ -70,7 +70,7 @@ void RectangleStrategy::printPrefix(std::ostringstream &out, int level, bool isL
     else
     {
         out << "└───";
-        for (int i = 0; i < level - 1; i++)
+        for (int i = 1; i < level - 1; i++)
         {
             out << "┴───";
         }
